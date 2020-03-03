@@ -8,7 +8,7 @@
     "relationships": {
       "workspace": {
         "data": {
-          "type": "workspaces",
+          "type": "workspaces",  
           "id": "ws-1vHw1s98dHqKPLoX"
         }
       }
